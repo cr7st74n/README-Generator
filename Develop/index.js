@@ -1,5 +1,7 @@
 // TODO: Include packages needed for this application
 
+const inquirer = require("inquirer");
+
 // TODO: Create an array of questions for user input
 const questions = [];
 
@@ -11,3 +13,11 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+inquirer.prompt({
+    type: "input",
+    name: "Title for ReadME",
+    message: "please enter the title for README"
+}).then((data)=>{
+    console.log(data);
+});
