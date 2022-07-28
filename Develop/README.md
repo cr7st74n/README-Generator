@@ -1,10 +1,10 @@
 
-# asdg
+# README project
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
 
 ## About
-asdgf
+Create a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report isses, and houw to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
 ### Table of Contents
  * [About](#About)
@@ -26,33 +26,33 @@ asdgf
 
 
 ## Criteria
-asddg
+You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
 
 ## Installation
-dfg
+no 
 
 ## Usage
-dfh
+no
 
 ## License
-Boost Software 1.0 License
+Apache 2.0 License
 
 ## Deployment
-sdfg
+no
 
 ## Tests
-dfhg
+no
 
 ## Questions
-sdf 
+yes 
 
-https://github.com/sdg
+https://github.com/cr7st74n
 
-sdg
+cris-082011@hotmail.com
 
 ## Project Link
-sadfg
+https://github.com/cr7st74n/README-Generator
 
 ## Project Deployment
-[Access here!](sadfg)
+[Access here!](https://github.com/cr7st74n/README-Generator)
 
