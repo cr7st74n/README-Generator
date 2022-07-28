@@ -13,7 +13,9 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
-# **${data.title}**
+# ${data.title}
+
+![Licence:${data.License}] (https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## About
 ${data.Description}
@@ -37,7 +39,7 @@ ${data.Description}
 
 
 
-## **Criteria**
+## Criteria
 ${data.proyect_criterial}
 
 ## Installation
@@ -47,7 +49,7 @@ ${data.Installation}
 ${data.Usage}
 
 ## License
-${data.License}
+${data.License} License
 
 ## Deployment
 ${data.Contributing}

@@ -1,8 +1,10 @@
 
-# **cr7ston**
+# REad ME project
+
+![Licence:Boost Software 1.0] (https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## About
-aslkjdhf
+this will be asome
 
 ### Table of Contents
  * [About](#About)
@@ -23,34 +25,34 @@ aslkjdhf
 
 
 
-## **Criteria**
-alksjudf
+## Criteria
+asdafdsgfsd
 
 ## Installation
-aslkjdgfoli
+sadf
 
 ## Usage
-lkajshf
+asdf
 
 ## License
-Artistic license 2.0
+Boost Software 1.0 License
 
 ## Deployment
-klasju
+
 
 ## Tests
-lasjkd
+sadf
 
 ## Questions
-awslkjdf 
+ 
 
-https://github.com/lasdkjd
+https://github.com/asdf
 
-laskjd
+asdf
 
 ## Project Link
-dalskjfghl
+asdfasdf
 
 ## Project Deployment
-[Access here!](dalskjfghl)
+[Access here!](asdfasdf)
 

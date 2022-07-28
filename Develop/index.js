@@ -51,7 +51,7 @@ inquirer.prompt([
     type: "list",
     name: "License",
     messege: questions[6],
-    choices: ["Academic Free License v3.0","Apache license 2.0","Artistic license 2.0"]
+    choices: ["Boost Software 1.0","Apache 2.0","BSD 3-Clause"]
 },{
     type: "input",
     name: "Contributing",
@@ -73,7 +73,7 @@ inquirer.prompt([
     name: "Email",
     messege: questions[11]
 }]).then((data)=>{
-    fs.appendFile(`${data.title}.md`, generateMarkdown(data),(err)=>
+    fs.appendFile(`README.md`, generateMarkdown(data),(err)=>
     err ? console.error(err): console.log('todo bien'))
 });
 
