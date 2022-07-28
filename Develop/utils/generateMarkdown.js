@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   return `
 # ${data.title}
 
-![Licence:${data.License}] (https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Licence] (https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## About
 ${data.Description}
